@@ -31,8 +31,8 @@ _Queensland University of Technology_
 ![VSCode](https://img.shields.io/badge/VSCode-b0d4ff?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ffc6c6?style=for-the-badge&logo=MathWorks&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-e6e6fa?style=for-the-badge&logo=github&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-aec6cf?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-ffb6b9?style=for-the-badge&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-aec6cf?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ### 🖥️ Operating Systems
 
