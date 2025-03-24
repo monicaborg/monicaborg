@@ -1,7 +1,8 @@
-# monicaborg
+# Monica Borg
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/monicaborg/)
-![Views](https://komarev.com/ghpvc/?username=monicaborg&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-accbee?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monicaborg/)
+![Views](https://komarev.com/ghpvc/?username=monicaborg&style=for-the-badge&color=f4c2c2)
+![Woman in STEM](https://img.shields.io/badge/💖-Girl_in_STEM-f7cce6?style=for-the-badge)
 
 ---
 
@@ -9,10 +10,9 @@ Hi there! I’m **Monica**, a Computer and Software Systems Engineering student 
 I’m passionate about tech, creative problem-solving, and designing clean, thoughtful solutions — whether that’s through code or clever UI.
 
 This GitHub is where I share:
-- 📚 Notes and resources from my degree and upcoming captsone/thesis project for my honours 
+- 📚 Notes and resources from my degree, including my upcoming **capstone/thesis** project  
 - 💻 Academic and personal projects  
-- ✨ Small-scale programs and experiments I’ve built along the way
-
+- ✨ Small-scale programs and fun experiments I’ve built along the way
 
 ---
 
@@ -29,29 +29,29 @@ _Queensland University of Technology_
 
 ### 💻 Software & Services
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-b0d4ff?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ffc6c6?style=for-the-badge&logo=MathWorks&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-e6e6fa?style=for-the-badge&logo=github&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-aec6cf?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ffb6b9?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🖥️ Operating Systems
 
-![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-cdb4db?style=for-the-badge&logo=apple&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-b5ead7?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 ## 💡 Languages I Work With
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![C](https://img.shields.io/badge/C-9ad0ec?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-eccbf0?style=for-the-badge&logo=c-sharp&logoColor=black)
+![Java](https://img.shields.io/badge/Java-fbc4ab?style=for-the-badge&logo=java&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-ffd6e0?style=for-the-badge&logo=MathWorks&logoColor=black)
+![Python](https://img.shields.io/badge/Python-ffe5b4?style=for-the-badge&logo=python&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-d5aaff?style=for-the-badge&logo=latex&logoColor=black)
 
 ---
 
-Thanks for stopping by! ✨  
-Feel free to explore my repositories and connect with me on LinkedIn 💖
+Thanks for stopping by! 🌸  
+Feel free to explore my repositories and connect with me on LinkedIn. 
