@@ -6,13 +6,12 @@
 
 ---
 
-Hi there! I’m **Monica**, a Computer and Software Systems Engineering student at **Queensland University of Technology (QUT)**.  
-I’m passionate about tech, creative problem-solving, and designing clean, thoughtful solutions — whether that’s through code or clever UI.
+Hi! I’m **Monica**, a Bachelor of Engineering (Honours) student at QUT majoring in Computer and Software Systems.  
+This GitHub is currently home to:
+- 📚 University notes  
+- 🛠️ Preparation for my upcoming honours project
 
-This GitHub is where I share:
-- 📚 Notes and resources from my degree, including my upcoming **capstone/thesis** project  
-- 💻 Academic and personal projects  
-- ✨ Small-scale programs and fun experiments I’ve built along the way
+I'm passionate about thoughtful, creative problem-solving and enjoy building clean, well-structured solutions through code.
 
 ---
 
