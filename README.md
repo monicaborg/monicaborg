@@ -38,7 +38,7 @@ _Queensland University of Technology_
 ### 🖥️ Operating Systems
 
 ![macOS](https://img.shields.io/badge/macOS-cdb4db?style=for-the-badge&logo=apple&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_11-b5ead7?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-b5ead7?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
