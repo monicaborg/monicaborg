@@ -22,7 +22,7 @@ _Queensland University of Technology_
 
 ---
 
-## 🛠️ Tools I Love Using
+## 🛠️ Tools
 
 ### 💻 Software & Services
 
