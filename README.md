@@ -33,7 +33,8 @@ _Queensland University of Technology_
 ![GitHub](https://img.shields.io/badge/GitHub-e6e6fa?style=for-the-badge&logo=github&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-ffb6b9?style=for-the-badge&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-aec6cf?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
+![Blender](https://img.shields.io/badge/Blender-ffddcc?style=for-the-badge&logo=blender&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-d1c4e9?style=for-the-badge&logo=unity&logoColor=black)
 
 ### 🖥️ Operating Systems
 
@@ -50,6 +51,8 @@ _Queensland University of Technology_
 ![MATLAB](https://img.shields.io/badge/MATLAB-ffd6e0?style=for-the-badge&logo=MathWorks&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-ffe5b4?style=for-the-badge&logo=python&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-d5aaff?style=for-the-badge&logo=latex&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-fdfd96?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ---
 
