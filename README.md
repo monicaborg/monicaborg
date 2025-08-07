@@ -18,7 +18,7 @@ I'm passionate about thoughtful, creative problem-solving and enjoy building cle
 **Bachelor of Engineering (Computer & Software Systems)**  
 _Queensland University of Technology_  
 📅 *Expected Graduation: 2026*  
-📊 *Current GPA: 5.73 / 7.0*
+📊 *Current GPA: 5.75 / 7.0*
 
 ---
 
@@ -50,9 +50,10 @@ _Queensland University of Technology_
 ![Java](https://img.shields.io/badge/Java-fbc4ab?style=for-the-badge&logo=java&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ffd6e0?style=for-the-badge&logo=MathWorks&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-ffe5b4?style=for-the-badge&logo=python&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-d5aaff?style=for-the-badge&logo=latex&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fdfd96?style=for-the-badge&logo=javascript&logoColor=black)
-
+![HTML](https://img.shields.io/badge/HTML-ffdac1?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-c2f0fc?style=for-the-badge&logo=css3&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-d5aaff?style=for-the-badge&logo=latex&logoColor=black)
 
 ---
 
